@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 
 const Hero = () => {
   const [text, setText] = useState('')
-  const fullText = "I build scalable platforms with modern UI and real-time features."
+  const fullText = "welcome in this KIZUNGU IDDY portfolio ."
   
   useEffect(() => {
     let index = 0
